@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>21978F51-9DB7-489D-8B90-9369578CDE16</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TableView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>85ACC503FD9D453E996E64C931CDC0A5D157B3DF</key>
+		<string>https://github.com/mackmobile/IOS_ObjectiveC_TableView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TableView.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>85ACC503FD9D453E996E64C931CDC0A5D157B3DF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mackmobile/IOS_ObjectiveC_TableView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>85ACC503FD9D453E996E64C931CDC0A5D157B3DF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>85ACC503FD9D453E996E64C931CDC0A5D157B3DF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TableView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
